@@ -19,7 +19,7 @@ To get the full picture of this commercial thesis, please review the files:
 [Emalahleni_Twilight_Horizon.xlsx](https://github.com/user-attachments/files/29645148/Emalahleni_Twilight_Horizon.xlsx)
 
 
-Execution Screenshots (Screenshot 2026-07-03...)<img width="1661" height="970" alt="Screenshot 2026-07-03 190032" src="https://github.com/user-attachments/assets/6aa1330b-127c-42a3-938b-4cf43e395719" />
+<img width="1661" height="970" alt="Screenshot 2026-07-03 190032" src="https://github.com/user-attachments/assets/6aa1330b-127c-42a3-938b-4cf43e395719" />
 <img width="1657" height="1020" alt="Screenshot 2026-07-03 185801" src="https://github.com/user-attachments/assets/b2ff6947-22ca-4e07-8823-b8e8bd2b41e7" />
 
 A look under the hood at the Python terminal during the execution of the serverless SQL architecture.
