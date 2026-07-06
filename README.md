@@ -6,7 +6,7 @@ A case study focused on my coal-dependant hometown.
 
 eMalahleni (Witbank) has long held the undisputed throne as the heart of South Africa's coal industry. However, the geological and financial realities suggest that this era is coming to a hard stop much sooner than I anticipated.
 
-This case study proves that the region's collapse will not be purely geological. By mapping the remaining 3.8 billion tonnes of regional reserves against the Eskom power station decommissioning cliff and aggressive ESG-driven lending freezes from commercial banks, this project identifies the exact timeline where coal reserves structurally transform into stranded assets.
+This case study exposes that the region's collapse will not be purely geological. By mapping the remaining 3.8 billion tonnes of regional reserves against the Eskom power station decommissioning cliff and aggressive ESG-driven lending freezes from commercial banks, this project identifies the exact timeline where coal reserves structurally transform into stranded assets.
 
 Since I was curious about the actual timeline, I decided to try and estimate just how long is this twilight era going to last. I am by no means trying to save the town or anything, I am just mapping out the timeline of this twilight as a soon to be graduate entering the workforce. Open the files below to see the data unfold.
 
